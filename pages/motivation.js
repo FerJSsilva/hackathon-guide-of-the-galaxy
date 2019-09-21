@@ -33,6 +33,27 @@ export default function Motivation() {
           In a Hackathon you can help to find solutions, sketch ideas in a notebook, motivate your team mates, make a presentation for your team idea, code solution, organize your team and much more. <br/>
           There are no limits in a Hackathon. After all we are here to Hack.
         </p>
+        <h2>Why you should participate a Hackathon</h2>
+        <h2>Why you should host a Hackathon</h2>
+        <p>
+          If you have a company or a cowork space, host a internal hackathon might be a great idea! <br/>
+          Technology move fast. Adaptation is necessary. There is no better place to do it than a Hackathon.
+        </p>
+        <p>
+          When your organize a hackathon you set a period of time with no limits to create solutions. <br/>
+          Basically what I'm saying is that a hackathon is a idea generator and accelerator. <br/>
+          It's a great chance to test out new ideas, solve a particular problems and promote your own place.
+        </p>
+        <p>
+          Here are some reasons why you should host a hackathon:
+          <ul>
+            <li>An oportunity to get out of the box;</li>
+            <li>Create an open space to use creative ideas;</li>
+            <li>Test new solutions having a low impact;</li>
+            <li>Improve people problem solving skills and sense of ownership;</li>
+            <li>Promote team communication.</li>
+          </ul>
+        </p>
     </Layout>
   )
 }
