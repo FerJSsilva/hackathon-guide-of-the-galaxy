@@ -34,6 +34,23 @@ export default function Motivation() {
           There are no limits in a Hackathon. After all we are here to Hack.
         </p>
         <h2>Why you should participate a Hackathon</h2>
+        <p>
+          A hackathon is the right place for someone to learn new skills.
+          But what is the true motivation behind being in a hackathon?
+        </p>
+        <p>
+          If you think about it, being in a hackathon is a time that you can invest in your personal and profissional growth. <br/>
+          What was the last time you had an opportunity to test your skills and what you really want to with your life? <br/>
+          Here is the place to make mistakes, learn from them and discover what you really like to do. <br/>
+        </p>
+        <p>
+          Doesn't matter the role you are doing. <br/>
+          You can work understanting the problem, developing software, organizing your team, making an awesome design, motivating, testing, creating a presentation and much more. <br/>
+          There are infinity possibilities. The only limitation is your own imagination.
+        </p>
+        <p>
+          A true master is always learning!
+        </p>
         <h2>Why you should host a Hackathon</h2>
         <p>
           If you have a company or a cowork space, host a internal hackathon might be a great idea! <br/>
